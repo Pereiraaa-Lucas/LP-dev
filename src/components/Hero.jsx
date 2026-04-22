@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 // 1. IMPORTANTE: Importe a sua imagem aqui
-import Perfil from '../assets/perfil.png'; 
+import fotoPerfil from '../assets/perfil.png'; 
 
 const Hero = () => {
   return (
