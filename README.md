@@ -20,4 +20,4 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/pereiraaa-lucas/lp-dev.git](https://github.com/pereiraaa-lucas/lp-dev.git)
+   git clone [https://github.com/Pereiraaa-Lucas/LP-dev.git](https://github.com/pereiraaa-lucas/LP-dev.git)
